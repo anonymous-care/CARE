@@ -1,0 +1,11 @@
+matplotlib
+networkx
+numpy
+pandas
+prettytable
+scikit-learn
+scipy
+seaborn
+torch
+torch_geometric
+torch_scatter
