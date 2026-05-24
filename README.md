@@ -51,11 +51,7 @@ pip install -r requirements.txt
 
 ### 3.1 Download the dataset
 
-Download the dataset from:
-
-```text
-https://zenodo.org/records/19487502
-```
+Download the dataset.
 
 Extract the downloaded files under the repository's `dataset/` directory.
 
